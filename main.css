@@ -1,0 +1,21 @@
+
+h1  {
+  color: rgb(255, 0, 0);
+}
+
+
+#colleges {
+  background-color: rgb(255, 0, 255);
+  display: inline-flex;
+  max-width: 300px;
+}
+
+#topics {
+    list-style-type: none;
+  }
+
+
+ figure img {
+  max-width: 300px;
+  margin: 20px;
+}
