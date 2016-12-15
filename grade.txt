@@ -1,0 +1,11 @@
+Peter Vegliante
+WEB1010 - Test 1
+
+Grade: 5.5/6 pts
+
+Notes:
+
+Question 6: The question said to set the margin on every figure. You set the
+margin on every image inside of a figure. Although it was technically incorrect,
+this produced a similar result to the user so you earned half credit on this
+question.s
